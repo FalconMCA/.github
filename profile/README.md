@@ -11,6 +11,6 @@ Toute reproduction, divulgation ou vol pourrait donner lieu à des poursuites ju
 - **Pterodactyl** : Accès à la console de Sunarys
 
 ## 👀 Contributeurs
-- **Jebril92** (Discord @zeygal) - Développeur
-- **Pseudow** (Discord @pseudow_) - Développeur
+- [**Jebril92**](https://github.com/jebril92) (Discord @zeygal) - Développeur
+- [**Pseudow**](https://github.com/Pseudow) (Discord @pseudow_) - Développeur
 
